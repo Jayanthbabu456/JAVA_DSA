@@ -1,1 +1,1 @@
-# JAVA_DSA
+# Learning and practicing Java programming.
