@@ -1,4 +1,4 @@
-// Input currency in rupees and output in USD.
+// Take 2 numbers as input and print the largest number.
 
 package basicprograms.largestnumber;
 import java.util.Scanner;
