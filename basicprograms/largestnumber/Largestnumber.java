@@ -1,3 +1,5 @@
+// Input currency in rupees and output in USD.
+
 package basicprograms.largestnumber;
 import java.util.Scanner;
 public class Largestnumber {
