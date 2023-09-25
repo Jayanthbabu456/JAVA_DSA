@@ -1,6 +1,4 @@
-/**
- * Areaofcircle
- */
+
 public class Areaofcircle {
 
     public static void main(String[] args) {
