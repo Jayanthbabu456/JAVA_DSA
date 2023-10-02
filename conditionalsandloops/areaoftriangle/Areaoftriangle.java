@@ -1,7 +1,17 @@
+// Area Of Triangle Java Program
 package conditionalsandloops.areaoftriangle;
+
+import java.util.Scanner;
 
 public class Areaoftriangle {
     public static void main(String[] args) {
-        System.out.println("Area of Triangle");
+      Scanner input=new Scanner(System.in);
+      System.out.println("Enter height");
+      int h=input.nextInt();
+            System.out.println("Enter base");
+            int b=input.nextInt();
+            double area=0.5*(b*h);
+            System.out.println("Area of triangle:"+ area);
+            input.close();
     }
 }
