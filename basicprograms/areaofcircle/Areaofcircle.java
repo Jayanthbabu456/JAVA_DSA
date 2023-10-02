@@ -1,4 +1,6 @@
 // Area Of Circle Java Program
+package basicprograms.areaofcircle;
+
 import java.util.Scanner;
 
 public class Areaofcircle {

@@ -1,6 +1,5 @@
 // Area Of Triangle Java Program
-package conditionalsandloops.areaoftriangle;
-
+package basicprograms.areaoftriangle;
 import java.util.Scanner;
 
 public class Areaoftriangle {
