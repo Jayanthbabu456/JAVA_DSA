@@ -1,3 +1,5 @@
+// Subtract the Product and Sum of Digits of an Integer
+
 package conditionalsandloops.sumandproduct;
 
 import java.util.Scanner;
