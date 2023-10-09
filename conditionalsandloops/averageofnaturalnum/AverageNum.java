@@ -1,3 +1,5 @@
+// Calculate Average Of N Numbers
+
 package conditionalsandloops.averageofnaturalnum;
 
 import java.util.Scanner;
