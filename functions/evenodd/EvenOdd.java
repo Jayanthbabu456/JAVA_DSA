@@ -1,3 +1,4 @@
+// Define a program to find out whether a given number is even or odd.
 package functions.evenodd;
 
 import java.util.Scanner;
