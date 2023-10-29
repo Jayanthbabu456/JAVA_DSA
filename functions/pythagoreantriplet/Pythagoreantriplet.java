@@ -6,6 +6,6 @@ package functions.pythagoreantriplet;
 public class Pythagoreantriplet {
 
     public static void main(String[] args) {
-        System.out.println("Pythagorean triplet");
+        System.out.println("Pythagorean triplet in function");
     }
 }
