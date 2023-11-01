@@ -1,3 +1,4 @@
+// Define a method to find out the sum.
 package functions.sum;
 
 import java.util.Scanner;
