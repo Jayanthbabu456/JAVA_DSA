@@ -1,3 +1,4 @@
+// Define a method to find out Max and Min number.
 package functions.maxmin;
 
 import java.util.Scanner;
