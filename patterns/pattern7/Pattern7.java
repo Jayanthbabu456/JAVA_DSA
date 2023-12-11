@@ -1,3 +1,8 @@
+    //  *****
+    //   ****
+    //    ***
+    //     **
+    //      *
 package patterns.pattern7;
 
 public class Pattern7 {
