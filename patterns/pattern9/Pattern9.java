@@ -1,3 +1,8 @@
+    // *********
+    //  *******
+    //   *****
+    //    ***
+    //     *
 package patterns.pattern9;
 
 public class Pattern9 {
