@@ -1,3 +1,8 @@
+    //      *
+    //     * *
+    //    * * *
+    //   * * * *
+    //  * * * * *
 package patterns.pattern10;
 
 public class Pattern10 {
