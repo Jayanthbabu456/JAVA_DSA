@@ -1,3 +1,13 @@
+// * * * * *
+//  * * * *
+//   * * *
+//    * *
+//     *
+//     *
+//    * *
+//   * * *
+//  * * * *
+// * * * * *
 package patterns.pattern12;
 
 public class Pattern12 {
