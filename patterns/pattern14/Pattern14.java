@@ -1,3 +1,8 @@
+//  *********
+//   *     *
+//    *   *
+//     * *
+//      *
 package patterns.pattern14;
 
 public class Pattern14 {
