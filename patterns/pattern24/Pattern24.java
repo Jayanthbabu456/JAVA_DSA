@@ -1,3 +1,13 @@
+    //    *        *
+    //    **      **
+    //    * *    * *
+    //    *  *  *  *
+    //    *   **   *
+    //    *   **   *
+    //    *  *  *  *
+    //    * *    * *
+    //    **      **
+    //    *        *
 package patterns.pattern24;
 
 public class Pattern24 {
