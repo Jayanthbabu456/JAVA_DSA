@@ -1,3 +1,8 @@
+//     *****
+//    *   *
+//   *   *
+//  *   *
+// *****
 package patterns.pattern25;
 
 public class Pattern25 {
